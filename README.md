@@ -1,3 +1,3 @@
 # Spring Boot Demo Application
 
-Written from official spring guide : https://spring.io/guides
+Build project following this official guide : https://spring.io/guides/gs/accessing-data-mysql
